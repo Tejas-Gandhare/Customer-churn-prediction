@@ -156,9 +156,9 @@ This project was completed as part of a Machine Learning Internship assignment.
 
 ## 👨‍💻 Author
 
-**Tejas Gandhre**
+**Tejas Gandhare**
 
-B.Tech – Artificial Intelligence & Data Science
+B.E. – Artificial Intelligence & Data Science
 
 Babasaheb Naik College of Engineering, Pusad
 
